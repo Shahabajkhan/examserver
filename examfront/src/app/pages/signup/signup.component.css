@@ -1,0 +1,12 @@
+.full-width{
+    width: 100%;
+}
+.outline { 
+    border-style: solid; 
+    border-width: medium; 
+}
+.mat-card{
+
+    border: 20px  #fffdfd;
+    
+   }
